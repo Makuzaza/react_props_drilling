@@ -1,17 +1,15 @@
 {
   "data": {
-    "id": 1,
-    "name": "John Doe",
     "orders": [
       {
         "orderId": "123",
         "product": "Book",
-        "quantity": 2,
+        "quantity": "3",
         "price": 15.99
       },
       {
         "orderId": "124",
-        "product": "Pen",
+        "product": "john",
         "quantity": "6",
         "price": 2.99
       }
